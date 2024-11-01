@@ -8,6 +8,8 @@ Proje, özellikle kullanıcı dostu bir deneyim sunmayı ve estetik bir arayüz 
 
 # Kullanılan Teknolojiler
 <br/>
+
+
 - HTML & CSS
 - Bootstrap: Responsive tasarım ve kullanıcı arayüzü bileşenleri için
 - JavaScript
@@ -33,6 +35,8 @@ Proje, özellikle kullanıcı dostu bir deneyim sunmayı ve estetik bir arayüz 
 <br/>
 <h3>Projeyi İnceleyin</h3>
 Proje hakkında daha fazla bilgi almak ve canlı önizlemesini görmek için bu bağlantıya göz atabilirsiniz.
+
+
 
 
 
