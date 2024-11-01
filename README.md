@@ -34,7 +34,6 @@ Proje, özellikle kullanıcı dostu bir deneyim sunmayı ve estetik bir arayüz 
 # Görüntüler
 <br/>
 <h3>Projeyi İnceleyin</h3>
-Proje hakkında daha fazla bilgi almak ve canlı önizlemesini görmek için bu bağlantıya göz atabilirsiniz.
 
 <br/>
 
